@@ -28,8 +28,6 @@ public class SocialMediaApp{
                     createAccount();
                 } else if (choice == 2) {
                     login();
-                } else if (choice == 3) {
-                    saveUsers();
                     System.out.println("Goodbye");
                     break;
                 } else {
